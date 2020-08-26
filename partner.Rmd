@@ -1,0 +1,13 @@
+---
+title: "partner"
+author: "Cody Nielsen"
+date: "8/26/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+My partner's name is Jeffrey Kinard and his GitHub username is jkinard19.
+In the most recent commit he added markdown and html for hw1. The commit ID is c1a05391657362b015491c8da71eb482c03f63ba.
+I am not able to knit without error it was unable to find file business_analyst.png not found in the resource path. 
